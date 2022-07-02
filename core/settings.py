@@ -43,6 +43,9 @@ INSTALLED_APPS = [
     
     # for CORS
     'corsheaders',
+
+    #for documentation
+    'drf_yasg',
 ]
 
 MIDDLEWARE = [
